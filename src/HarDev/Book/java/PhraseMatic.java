@@ -1,4 +1,4 @@
-package HarvDev.Book.Java;
+package HarDev.Book.java;
 
 import java.util.Random;
 
